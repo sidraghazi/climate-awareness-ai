@@ -22,9 +22,12 @@ The dataset contains **43,943 climate-related tweets** collected between **April
 - This ensures high annotation reliability
 
   ---
-  ### Dataset Source
+
+ ### Dataset Source
 The dataset is publicly available and can be accessed here:  
-🔗 https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment
+🔗 https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment-dataset
+
+---
 
 ### Awareness Classes 
 - **2 – News**: Factual or informational climate-related news  
