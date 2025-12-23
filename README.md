@@ -21,7 +21,12 @@ The dataset contains **43,943 climate-related tweets** collected between **April
 - Only tweets with full agreement were included
 - This ensures high annotation reliability
 
-### Awareness Classes
+  ---
+  ### Dataset Source
+The dataset is publicly available and can be accessed here:  
+🔗 https://www.kaggle.com/datasets/edqian/twitter-climate-change-sentiment
+
+### Awareness Classes 
 - **2 – News**: Factual or informational climate-related news  
 - **1 – Pro**: Supports the belief in human-caused climate change  
 - **0 – Neutral**: Neither supports nor refutes human-caused climate change  
