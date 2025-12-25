@@ -96,4 +96,52 @@ By enabling scalable analysis of climate-related discourse, this project support
   - Bias mitigation techniques
   - Longitudinal analysis of awareness trends  
 
+---
+
+## How to Run
+
+To run this project locally, follow these steps:
+
+1. Clone the repository: https://github.com/sidraghazi/climate-awareness-ai
+2. Navigate into the project directory
+3. (Optional but recommended) Create a virtual environment
+4. Activate the virtual environment:
+- Windows:
+  ```
+  venv\Scripts\activate
+  ```
+- macOS/Linux:
+  ```
+  source venv/bin/activate
+  ```
+5. Install dependencies
+
+---
+## Sample Output
+
+Example classification performance:
+
+## Sample Output
+
+Example classification performance:
+Classification Report:
+
+                                precision    recall  f1-score   support
+
+          High Awareness (Pro)       0.71      0.87      0.78      4593
+Informational Awareness (News)       0.73      0.65      0.69      1855
+          Low Awareness (Anti)       0.68      0.39      0.50       798
+  Moderate Awareness (Neutral)       0.60      0.42      0.49      1543
+
+                      accuracy                           0.70      8789
+                     macro avg       0.68      0.58      0.62      8789
+                  weighted avg       0.69      0.70      0.69      8789
+
+Sample Prediction: Informational Awareness (News)
+
+
+
+
+
+
 
